@@ -146,7 +146,7 @@ Uygulama ve widget eklentisi ortak çekirdeği yerel bir Swift paketinde (**Rahv
 ## Yol haritası
 
 - [x] 1.0 · App Store'a gönderildi
-- [ ] 1.0.1 · İlk düzeltmeler ve yenilenen "deneme bitti" ekranı
+- [ ] 1.0.1 · İlk düzeltmeler ve bugfixing
 - [ ] Apple Watch uygulaması
 - [ ] İngilizce arayüz
 
